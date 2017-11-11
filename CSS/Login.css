@@ -1,0 +1,15 @@
+#email {
+  text-align: center;
+  font-size: 2em;
+}
+
+#password {
+  text-align: center;
+  font-size: 2em;
+}
+
+.Login {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
