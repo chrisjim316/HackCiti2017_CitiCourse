@@ -1,0 +1,29 @@
+#email {
+    text-align: center;
+    font-size: 2em;
+}
+
+#password {
+    text-align: center;
+    font-size: 2em;
+}
+
+#surname {
+    text-align: center;
+    font-size: 2em;
+}
+#name {
+    text-align: center;
+    font-size: 2em;
+}
+/*#thebutton {
+    text-align: center;
+    font-size: 2em;
+}*/
+
+
+.Registration {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
